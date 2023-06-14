@@ -26,7 +26,7 @@ The rib fracture images need to be extracted from volumetric CT data with the Sy
 
 Example image:
 
-<img src="https://github.com/victorjonathanibanez/test/blob/main/fracture.1.jpg" alt="alt text" width="700" height="500">
+<img src="fracture.1.jpg" alt="alt text" width="700" height="500">
 
 ## Use pre-trained RiFNet 
 
@@ -69,7 +69,7 @@ When the training procedure is finished, run the command 'python3 testing.py' in
 
 Cross validation procedure:
 
-<img src="https://github.com/victorjonathanibanez/test/blob/main/graph_CV.png" alt="alt text" width="800" height="500">
+<img src="graph_CV.png" alt="alt text" width="800" height="500">
 
 ## Parameters
 *default values:*
